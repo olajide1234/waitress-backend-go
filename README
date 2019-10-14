@@ -1,0 +1,3 @@
+Backend for a simple waitress application in Golang.
+
+Run `go run main.go` to start app. 
